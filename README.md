@@ -25,7 +25,7 @@ dev_info = {
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 ## 📈 Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Stiven9900&show_icons=true&theme=radical)
 
 ## 📫 Contacto
 <!-- Personaliza con tus propios enlaces -->
