@@ -1,4 +1,4 @@
-# ¡Hola, soy Stiven! 👋
+# Hi, I'm Stiven! 👋
 
 ## 👨‍💻 About me
 I am a Colombian software developer, passionate about technology and artificial intelligence, constantly learning.
