@@ -5,11 +5,9 @@ I am a Colombian software developer, passionate about technology and artificial 
 
 ```python
 dev_info = {
-    "nombre": "Stiven",
-    "educación": ["Programming Technician - SENA", 
-                 "Systems Engineering Student - UdeA"],
-    "ubicación": "Colombia",
-    "intereses": ["Web Development", "Machine Learning",
+    "Name": "Stiven",
+    "Locate": "Colombia",
+    "interests": ["Web Development", "Machine Learning",
                   "Computer Vision", "Data Bases"]
 }
 ```
