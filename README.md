@@ -14,7 +14,6 @@ dev_info = {
 
 ## 🎓 Education
 - 🔹 Software Programming Technician - SENA
-- 🔹 Systems Engineering Student - Universidad de Antioquia (UdeA)
 
 ## 🛠️ Technology Stack
 <!-- Frontend -->
