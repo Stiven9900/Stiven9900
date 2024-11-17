@@ -31,9 +31,6 @@ dev_info = {
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/-MediaPipe-00A6D6?style=flat&logo=google&logoColor=white)
 
-## 📈 GitHub Statistics
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Stiven9900&show_icons=true&theme=radical)
-
 ## 💼 Featured Projects
 - 🤖 Implementation of ML models with TensorFlow and Keras
 - 👁️ Development of computer vision applications using MediaPipe
